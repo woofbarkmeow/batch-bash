@@ -1,2 +1,2 @@
 # batch-bash
-Bash Parser for windows.
+Bash-like shell made entirely in batch files.
