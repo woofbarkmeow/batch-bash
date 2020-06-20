@@ -7,7 +7,7 @@ if %alpha%==s goto :shell
 
 :start
 echo batch-bash shell
-echo Bash-like shell parser for windows
+echo Bash-like shell for windows
 echo batch-bash shell comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
 
 
