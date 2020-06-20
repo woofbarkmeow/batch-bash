@@ -6,9 +6,9 @@ set alpha=n
 if %alpha%==s goto :shell
 
 :start
-echo JAMS batch-bash shell
+echo batch-bash shell
 echo Bash-like shell parser for windows
-echo JAMS batch-bash comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
+echo batch-bash shell comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
 
 
 
@@ -19,6 +19,6 @@ echo JAMS batch-bash comes with ABSOLUTELY NO WARRANTY, to the extent permitted 
 
 
 :shell
-SET /P to_parse=%date% %time% $
+SET /P to_parse=%username%@%ComputerName% $
 if %to_parse%=="" goto :shell
 parse.bat %to_parse%
