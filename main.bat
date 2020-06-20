@@ -20,5 +20,5 @@ echo batch-bash shell comes with ABSOLUTELY NO WARRANTY, to the extent permitted
 
 :shell
 SET /P to_parse=%username%@%ComputerName% $
-if [%to_parse%]==[] goto :shell
+if "%to_parse%"==[] goto :shell
 parse.bat %to_parse%
