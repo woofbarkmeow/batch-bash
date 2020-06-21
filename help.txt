@@ -1,0 +1,35 @@
+help file
+-----------------------------
+there are no aliases implemented yet
+
+
+-----------------------------
+commands
+-----------------------------
+cat - type
+cd - change directory
+clear - clears screen
+cp - copy
+curl - curl
+date - show date and time
+echo - echo
+exit - exits shell
+help - shows this help screen
+htop - tasklist
+ifconfig - ipconfig
+ip - shows ip from all networks
+kill - pskill
+less - more - less is more
+ls - dir
+mkdir - make directory
+more - more
+mv - move
+nano - fork of pico
+ping - ping
+reboot - instantly reboots
+rename - ren
+shutdown - shutdown now
+touch - touch
+top - tasklist
+traceroute - tracert
+-----------------------------

@@ -1,19 +1,6 @@
 @echo off
-echo help file
 
-
-
-
-
-
-
-
-
-
-
-
-
-pause
+more help.txt
 
 ::back to shell
 set alpha=s
