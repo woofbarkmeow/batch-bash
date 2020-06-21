@@ -56,6 +56,9 @@ if %1==more more %2
 ::mv
 if %1==mv move %2 %3
 
+::nano
+if %1==nano nano-2.7.5.exe %2
+
 ::ping
 if %1==ping ping %2 %3 %4 %5 %6 %7 %8 %9
 
