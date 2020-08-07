@@ -8,6 +8,7 @@ if %alpha%==s goto :shell
 :start
 echo batch-bash shell
 echo Bash-like shell for windows
+echo Batch-bash is licenced under GPL-3.0
 echo batch-bash shell comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
 
 
